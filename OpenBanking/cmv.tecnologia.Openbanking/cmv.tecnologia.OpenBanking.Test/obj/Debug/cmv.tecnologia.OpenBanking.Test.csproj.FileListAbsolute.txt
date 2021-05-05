@@ -1,0 +1,16 @@
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\bin\Debug\cmv.tecnologia.OpenBanking.Test.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\bin\Debug\cmv.tecnologia.OpenBanking.Test.pdb
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\obj\Debug\cmv.tecnologia.OpenBanking.Test.csproj.CoreCompileInputs.cache
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\obj\Debug\cmv.tecnologia.OpenBanking.Test.csproj.CopyComplete
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\obj\Debug\cmv.tecnologia.OpenBanking.Test.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.OpenBanking.Test\obj\Debug\cmv.tecnologia.OpenBanking.Test.pdb

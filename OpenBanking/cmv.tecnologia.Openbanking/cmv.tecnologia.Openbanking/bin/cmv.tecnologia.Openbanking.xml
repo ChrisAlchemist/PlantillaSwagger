@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>cmv.tecnologia.Openbanking</name>
+    </assembly>
+    <members>
+        <member name="M:cmv.tecnologia.Openbanking.Herramientas.ConstructorRespuesta`1.CrearRespuesta(`0,System.Int32,System.String)">
+            <summary>
+            Método para obtener una respuesta genérica
+            </summary>
+            <param name="Modelo"></param>
+            <param name="Codigo"></param>
+            <param name="Mensaje"></param>
+            <returns></returns>
+        </member>
+        <member name="M:cmv.tecnologia.Openbanking.Herramientas.ConstructorRespuesta`1.CrearRespuestaCorrecta(`0)">
+            <summary>
+            Método para obtener una respuesta correcta
+            </summary>
+            <param name="Modelo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:cmv.tecnologia.Openbanking.Herramientas.ConstructorRespuesta`1.CrearRespuestaIncorrecta">
+            <summary>
+            Método para la obtener una respuesta incorrecta
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:cmv.tecnologia.Openbanking.Herramientas.ConstructorRespuesta`1.CrearRespuestaError(`0,System.String)">
+            <summary>
+            Método para la obtener una respuesta errónea
+            </summary>
+            <param name="Modelo"></param>
+            <param name="Mensaje"></param>
+            <returns></returns>
+        </member>
+        <member name="M:cmv.tecnologia.Openbanking.Herramientas.Encryptor.ConvertFileToBase64(System.Byte[])">
+            <summary>
+            Convierte array buffer a base 64
+            </summary>
+            <param name="buffer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:cmv.tecnologia.Openbanking.Herramientas.Encryptor.ConvertBase64ToFile(System.String)">
+            <summary>
+            Convierte un string base64 en un array buffer
+            </summary>
+            <param name="base64"></param>
+            <returns></returns>
+        </member>
+        <member name="M:cmv.tecnologia.Openbanking.Herramientas.Encryptor.EncryptString(System.String,System.String)">
+            <summary>
+            Método para encriptar cadenas de texto 
+            </summary>
+            <param name="key"></param>
+            <param name="plainText"></param>
+            <returns></returns>
+        </member>
+        <member name="M:cmv.tecnologia.Openbanking.Herramientas.Encryptor.DecryptString(System.String,System.String)">
+            <summary>
+            Método para desencriptar cadenas de texto
+            </summary>
+            <param name="key"></param>
+            <param name="cipherText"></param>
+            <returns></returns>
+        </member>
+        <member name="M:cmv.tecnologia.Openbanking.Herramientas.UnityResolver.#ctor(Unity.IUnityContainer)">
+            <summary>
+            Constructor del resolvedor de dependencias
+            </summary>
+            <param name="container"></param>
+        </member>
+        <member name="M:cmv.tecnologia.Openbanking.Herramientas.UnityResolver.BeginScope">
+            <summary>
+            Inicializador del resolvedor de dependencias
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:cmv.tecnologia.Openbanking.Herramientas.UnityResolver.Dispose">
+            <summary>
+            Método para destruir el objeto
+            </summary>
+        </member>
+        <member name="M:cmv.tecnologia.Openbanking.Herramientas.UnityResolver.GetService(System.Type)">
+            <summary>
+            Método para obtener la dependencia
+            </summary>
+            <param name="serviceType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:cmv.tecnologia.Openbanking.Herramientas.UnityResolver.GetServices(System.Type)">
+            <summary>
+            Método para devolver todas las dependencias
+            </summary>
+            <param name="serviceType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:cmv.tecnologia.Openbanking.Interseptores.InterseptorSeguridad.SendAsync(System.Net.Http.HttpRequestMessage,System.Threading.CancellationToken)">
+            <summary>
+            Método para interceptar las peticiones
+            </summary>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+        </member>
+        <member name="M:cmv.tecnologia.Openbanking.Interseptores.InterseptorSeguridad.ValidadorVigencia(System.Nullable{System.DateTime},System.Nullable{System.DateTime},Microsoft.IdentityModel.Tokens.SecurityToken,Microsoft.IdentityModel.Tokens.TokenValidationParameters)">
+            <summary>
+            Método para validar la vigencia del token
+            </summary>
+            <param name="notBefore"></param>
+            <param name="expires"></param>
+            <param name="securityToken"></param>
+            <param name="validationParameters"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,93 @@
+Fecha:
+15/04/2021 08:45:08 a. m.
+Mensaje: Estatus del correo: 139507314
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: 139507314
+ 
+Fecha:
+15/04/2021 09:52:17 a. m.
+Mensaje: Estatus del correo: 139516008
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: 139516008
+ 
+Fecha:
+15/04/2021 09:53:21 a. m.
+Mensaje: Estatus del correo: 139518062
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: 139518062
+ 
+Fecha:
+15/04/2021 09:54:51 a. m.
+Mensaje: Estatus del correo: 139518429
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: 139518429
+ 
+Fecha:
+15/04/2021 10:28:35 a. m.
+Mensaje: Estatus del correo: 139525949
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: 139525949
+ 
+Fecha:
+15/04/2021 10:37:47 a. m.
+Mensaje: Estatus del correo: 139528408
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: 139528408
+ 
+Fecha:
+15/04/2021 10:40:03 a. m.
+Mensaje: Estatus del correo: 139528998
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: 139528998
+ 
+Fecha:
+15/04/2021 10:40:41 a. m.
+Mensaje: Estatus del correo: 139529209
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: 139529209
+ 
+Fecha:
+15/04/2021 10:49:56 a. m.
+Mensaje: Estatus del correo: 139532016
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: 139532016
+ 
+Fecha:
+15/04/2021 10:50:19 a. m.
+Mensaje: Estatus del correo: 139532099
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: 139532099
+ 
+Fecha:
+15/04/2021 10:50:57 a. m.
+Mensaje: Estatus del correo: 139532266
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: 139532266
+ 
+Fecha:
+15/04/2021 10:51:36 a. m.
+Mensaje: Estatus del correo: 139532412
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: 139532412
+ 
+Fecha:
+15/04/2021 11:49:20 a. m.
+Mensaje: Estatus del correo: 139557306
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: 139557306
+ 
+Fecha:
+15/04/2021 11:52:57 a. m.
+Mensaje: El valor pasado debe ser una base de enumeración o un tipo subrayado para enumeración, como Int32.
+Nombre del parámetro: value
+ 
+Fecha:
+15/04/2021 11:53:51 a. m.
+Mensaje: El valor pasado debe ser una base de enumeración o un tipo subrayado para enumeración, como Int32.
+Nombre del parámetro: value
+ 
+Fecha:
+15/04/2021 11:56:57 a. m.
+Mensaje: Los correos de TO o FROM son inválidos
+Codigo: -10
+ 

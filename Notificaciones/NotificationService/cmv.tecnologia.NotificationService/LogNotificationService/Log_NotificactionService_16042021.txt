@@ -1,0 +1,10 @@
+Fecha:
+16/04/2021 12:18:07 p. m.
+Mensaje: El objeto de comunicación, System.ServiceModel.ChannelFactory`1[cmv.tecnologia.DAL.WsCalixta.GatewayPortType], no se puede usar para la comunicación porque se encuentra en el estado Faulted.
+ 
+Fecha:
+16/04/2021 12:33:11 p. m.
+Mensaje: Estatus del correo: 139855980
+ Correo de destino: cristian.perez.garcia.54@gmail.com
+idMail: 139855980
+ 

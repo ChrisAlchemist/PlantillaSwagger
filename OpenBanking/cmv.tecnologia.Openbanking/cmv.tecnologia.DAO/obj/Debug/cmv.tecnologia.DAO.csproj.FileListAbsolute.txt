@@ -1,0 +1,11 @@
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.DAO\bin\Debug\cmv.tecnologia.DAO.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.DAO\bin\Debug\cmv.tecnologia.DAO.pdb
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.DAO\bin\Debug\cmv.tecnologia.Entidades.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.DAO\bin\Debug\Dapper.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.DAO\bin\Debug\cmv.tecnologia.Entidades.pdb
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.DAO\bin\Debug\Dapper.xml
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.DAO\obj\Debug\cmv.tecnologia.DAO.csprojAssemblyReference.cache
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.DAO\obj\Debug\cmv.tecnologia.DAO.csproj.CoreCompileInputs.cache
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.DAO\obj\Debug\cmv.tecnologia.DAO.csproj.CopyComplete
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.DAO\obj\Debug\cmv.tecnologia.DAO.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tecnologia.DAO\obj\Debug\cmv.tecnologia.DAO.pdb

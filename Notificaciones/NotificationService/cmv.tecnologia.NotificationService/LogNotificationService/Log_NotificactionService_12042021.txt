@@ -1,0 +1,33 @@
+Fecha:
+12/04/2021 10:40:43 a. m.
+Mensaje: El estado de este correo ya no está disponible
+Codigo: 0
+ 
+Fecha:
+12/04/2021 10:50:33 a. m.
+Mensaje: La entrada no es una cadena Base 64 válida porque contiene un carácter que no es Base 64, más de dos caracteres de relleno o un carácter no válido entre los caracteres de relleno. 
+ 
+Fecha:
+12/04/2021 11:40:50 a. m.
+Mensaje: Estatus del correo: -400
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: -400
+ 
+Fecha:
+12/04/2021 11:53:23 a. m.
+Mensaje: Estatus del correo: -400
+ Correo de destino: isc.cristian.perez.garcia.54@gmail.com
+idMail: -400
+ 
+Fecha:
+12/04/2021 12:01:36 p. m.
+Mensaje: Estatus del correo: -400
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: -400
+ 
+Fecha:
+12/04/2021 12:16:01 p. m.
+Mensaje: Estatus del correo: -400
+ Correo de destino: isc.cristian.perez.54@gmail.com
+idMail: -400
+ 

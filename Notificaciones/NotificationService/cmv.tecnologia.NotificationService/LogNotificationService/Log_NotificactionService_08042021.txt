@@ -1,0 +1,30 @@
+Fecha:
+08/04/2021 11:00:56 a. m.
+Mensaje: El tipo de notificación debe de ser CORREO ELECTRÓNICO.
+ 
+Fecha:
+08/04/2021 11:02:31 a. m.
+Mensaje: El tipo de notificación debe de ser CORREO ELECTRÓNICO.
+ 
+Fecha:
+08/04/2021 11:04:13 a. m.
+Mensaje: El tipo de notificación debe de ser CORREO ELECTRÓNICO.
+ 
+Fecha:
+08/04/2021 11:05:19 a. m.
+Mensaje: El tipo de notificación debe de ser CORREO ELECTRÓNICO.
+ 
+Fecha:
+08/04/2021 11:08:47 a. m.
+Mensaje: El tipo de notificación debe de ser CORREO ELECTRÓNICO.
+ 
+Fecha:
+08/04/2021 11:09:18 a. m.
+Mensaje: El tipo de notificación debe de ser CORREO ELECTRÓNICO.
+ 
+Fecha:
+08/04/2021 11:09:32 a. m.
+Mensaje: Estatus del correo: 137814438
+ Celular: string
+Codigo: 137814438
+ 

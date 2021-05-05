@@ -1,0 +1,10 @@
+Fecha:
+09/04/2021 11:21:06 a. m.
+Mensaje: SMS enviado conexito
+ Celular: 7861021588
+Codigo: 3
+ 
+Fecha:
+09/04/2021 04:59:13 p. m.
+Mensaje: Consulta de saldo exitosa.- Saldo Disponible: 57998.944375119
+ 

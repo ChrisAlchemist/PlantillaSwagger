@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmv.tecnologia.Openbanking", "cmv.tecnologia.Openbanking\cmv.tecnologia.Openbanking.csproj", "{EFF1B135-99B7-4B8D-BDBE-A1FDA7936B6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capa de Servicio", "Capa de Servicio", "{4B2A46E6-9871-4AE0-A534-027062831383}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capa de datos", "Capa de datos", "{AA886A99-4127-4414-9075-8B13798C41F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capa de dominio", "Capa de dominio", "{B140562A-ADFD-4769-A12F-0CB9471F685E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmv.tecnologia.OpenBanking.Test", "cmv.tecnologia.OpenBanking.Test\cmv.tecnologia.OpenBanking.Test.csproj", "{4995B323-2DE0-4CD8-BC91-61CB25CD88AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmv.tecnologia.Entidades", "cmv.tennologia.Entidades\cmv.tecnologia.Entidades.csproj", "{4A3CA331-D827-41F8-BF12-A8BDE3F91349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmv.tecnologia.DAO", "cmv.tecnologia.DAO\cmv.tecnologia.DAO.csproj", "{66088ED4-85DA-4E04-BF23-72CAB7FCACF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF1B135-99B7-4B8D-BDBE-A1FDA7936B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF1B135-99B7-4B8D-BDBE-A1FDA7936B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF1B135-99B7-4B8D-BDBE-A1FDA7936B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF1B135-99B7-4B8D-BDBE-A1FDA7936B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4995B323-2DE0-4CD8-BC91-61CB25CD88AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4995B323-2DE0-4CD8-BC91-61CB25CD88AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4995B323-2DE0-4CD8-BC91-61CB25CD88AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4995B323-2DE0-4CD8-BC91-61CB25CD88AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A3CA331-D827-41F8-BF12-A8BDE3F91349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3CA331-D827-41F8-BF12-A8BDE3F91349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3CA331-D827-41F8-BF12-A8BDE3F91349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3CA331-D827-41F8-BF12-A8BDE3F91349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66088ED4-85DA-4E04-BF23-72CAB7FCACF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66088ED4-85DA-4E04-BF23-72CAB7FCACF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66088ED4-85DA-4E04-BF23-72CAB7FCACF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66088ED4-85DA-4E04-BF23-72CAB7FCACF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EFF1B135-99B7-4B8D-BDBE-A1FDA7936B6A} = {4B2A46E6-9871-4AE0-A534-027062831383}
+		{4A3CA331-D827-41F8-BF12-A8BDE3F91349} = {B140562A-ADFD-4769-A12F-0CB9471F685E}
+		{66088ED4-85DA-4E04-BF23-72CAB7FCACF8} = {AA886A99-4127-4414-9075-8B13798C41F2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5273790C-71F3-4F17-809D-413A6526D799}
+	EndGlobalSection
+EndGlobal

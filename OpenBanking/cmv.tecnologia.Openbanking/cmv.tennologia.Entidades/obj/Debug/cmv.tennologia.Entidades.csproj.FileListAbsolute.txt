@@ -1,0 +1,6 @@
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tennologia.Entidades\bin\Debug\cmv.tennologia.Entidades.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tennologia.Entidades\bin\Debug\cmv.tennologia.Entidades.pdb
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tennologia.Entidades\obj\Debug\cmv.tennologia.Entidades.csprojAssemblyReference.cache
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tennologia.Entidades\obj\Debug\cmv.tennologia.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tennologia.Entidades\obj\Debug\cmv.tennologia.Entidades.dll
+C:\Users\pegc837648\source\repos\cmv.tecnologia.Openbanking\cmv.tennologia.Entidades\obj\Debug\cmv.tennologia.Entidades.pdb
